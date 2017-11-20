@@ -1,0 +1,1 @@
+'mosquitto_pub -t "Treats_in" -m "dispense"'
